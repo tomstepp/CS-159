@@ -1,0 +1,36 @@
+
+*************
+Thu Jan 16 16:01:26 EST 2014
+:
+File submitted from: /home/campus/steppt/CS159/labs/lab00
+File input submitted: lab00
+
+
+	No such file: lab00
+
+	Please verify the file name and/or that you are in the correct directory and try again!
+
+Directory long listing: total 115
+drwx------ 15 steppt student  299 Jan 16 15:44 ..
+-rw-------  1 steppt student  755 Jan 16 16:01 lab00.c
+-rwx------  1 steppt student 6489 Jan 16 16:01 a.out
+drwx------  2 steppt student   77 Jan 16 16:01 .
+-rwx------  1 steppt student  246 Jan 16 16:01 submitlab00
+
+
+*************
+Thu Jan 16 16:01:26 EST 2014
+:
+File submitted from: /home/campus/steppt/CS159/labs/lab00
+File input submitted: lab00.c
+
+steppt:
+turnin -v -c cs159_div08sec01 lab00 lab00.c
+-rw------- steppt/student  755 2014-01-16 16:01 lab00.c
+Your files have been submitted to cs159_div08sec01, lab00 for grading.
+
+Team Usernames Emailed
+  Thomas J Stepp (steppt)
+  Yuchen Cui (cui27)
+
+
